@@ -1,0 +1,5 @@
+homepage: "https://converly.io"
+documentation: "https://converly.io/gtm-templates/gravity-forms"
+versions:
+  - sha: 8f111f4562097ba4328eff1c0f2df1c2d847d0aa
+    changeNotes: First release.
