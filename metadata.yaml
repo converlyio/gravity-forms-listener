@@ -1,5 +1,7 @@
 homepage: "https://converly.io"
 documentation: "https://converly.io/gtm-templates/gravity-forms"
 versions:
+  - sha: 2f76fc4d0edb7851348c8d55ea2220e847e71594
+    changeNotes: Brand icon resized to 96 x 96.
   - sha: 8f111f4562097ba4328eff1c0f2df1c2d847d0aa
     changeNotes: First release.
